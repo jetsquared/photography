@@ -1,14 +1,14 @@
 {
   "name": "photography",
   "version": "3.0.0",
-  "description": "A jekyll website for photographer cum developer",
+  "description": "A jekyll website for photographer / developer",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/jetsquared/photography.git"
   },
   "keywords": [
     "photography",
@@ -19,12 +19,12 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "JET Squared",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/jetsquared/photography/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://github.com/jetsquared/photography#readme",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^4.0.2",
