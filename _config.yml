@@ -16,6 +16,9 @@ footer:
  bio: "A husband, father, and follower of the Lord Jesus Christ. I am an engineer at heart and love all things tech. Photography is a newly found interest and I'm loving this new 'view' of the world!"
  github: "To view the source of this website head over to the github page for this project. <a href=\"https://github.com/jetsquared/photography\">jetsquared - photography</a>."
 web_design: "AJ"
+funding:
+  paypal: https://www.paypal.me/jetsquared
+  paypal_image: "assets/img/paypal-logo.jpg"
 social_urls:
   facebook: "https://www.facebook.com/jamesatjetsquared"
   twitter: "https://www.twitter.com/jetsquaredco"

@@ -41,6 +41,14 @@ layout: default
                 </section>
                 <section>
                     <h2>Sponsor</h2>
+                    {% if site.funding.paypal %}
+                    <div>
+                        <a href="{{ site.funding.paypal }}" class="icon">
+                            <img src="{{ site.baseurl }}/{{ site.funding.paypal_image }}" alt="{{ site.funding.paypal_image }}"
+                                data-name="{{ site.funding.paypal_image }}" />
+                        </a>
+                    </div>
+                    {% endif %}
                     <div class="ad">
                         <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
