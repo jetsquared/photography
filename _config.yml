@@ -17,10 +17,10 @@ footer:
  github: "To view the source of this website head over to the github page for this project. <a href=\"https://github.com/jetsquared/photography\">jetsquared - photography</a>."
 web_design: "AJ"
 social_urls:
-  # facebook: "https://www.facebook.com/ramswaroop"
-  # twitter: "https://www.twitter.com/ram__patra"
+  facebook: "https://www.facebook.com/jamesatjetsquared"
+  twitter: "https://www.twitter.com/jetsquaredco"
   # instagram: "https://www.instagram.com/ram_patra"
   # dribbble: "https://dribbble.com/jetsquared"
-  # linkedin: "https://in.linkedin.com/in/ram-patra"
+  linkedin: "https://www.linkedin.com/in/jetsquared"
   github: "https://www.github.com/jetsquared"
 theme: jekyll-theme-merlot
