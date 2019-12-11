@@ -2,7 +2,7 @@
 baseurl: "https://photography.jetsquared.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "UA-131334320-1"
 
 # UI configs
 title: "Photography by JET Squared"
@@ -14,7 +14,7 @@ header:
 footer:
  name: ""
  bio: "A husband, father, and a follower of the Lord Jesus Christ. I am an engineer at heart and love all things tech. Photography is a newly found interest and I'm loving this new 'view' of the world!"
- github: "I 'forked' this directly from <a href=\"https://github.com/ramswaroop/photography\">ramswaroop</a>.  Currently, all credit for the website and design can be found on his page (don't reinvent the wheel, right?).;)"
+ github: "To view the source of this website head over to the github page for this project. <a href=\"https://github.com/jetsquared/photography\">jetsquared - photography</a>."
 web_design: "AJ"
 social_urls:
   # facebook: "https://www.facebook.com/ramswaroop"
