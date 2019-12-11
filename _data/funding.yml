@@ -1,0 +1,3 @@
+- name: paypal
+  url: "https://www.paypal.me/jetsquared"
+  img: "assets/img/paypal-logo.jpg"

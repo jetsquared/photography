@@ -4,7 +4,8 @@
   "description": "A jekyll website for photographer / developer",
   "main": "npmfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bundle exec jekyll serve"
   },
   "repository": {
     "type": "git",
