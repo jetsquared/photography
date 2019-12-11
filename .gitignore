@@ -42,6 +42,9 @@ logs
 *.log
 npm-debug.log*
 
+# Affinity Photo
+*.afphoto
+
 # Runtime data
 pids
 *.pid
