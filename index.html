@@ -113,6 +113,14 @@ layout: default
                 </p>
             </div>
             <div>
+                {% if site.footer.getpics %}
+                <section>
+                    <h2>Like what you see?</h2>
+                    <div>
+                        <p>{{ site.footer.getpics }}</p>
+                    </div>
+                </section>
+                {% endif %}
                 <section>
                     <h2>Get in touch</h2>
                     <form class="gform" method="post"
